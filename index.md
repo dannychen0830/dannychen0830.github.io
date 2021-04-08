@@ -1,5 +1,3 @@
-[Link1](./story.html)
+[research](./story.html) |  [notes](./notes.html)  |  [reading list](./story.html)  |  [story](./story.html)  |  [miscellaneous](./miscellaneous.html)
 
-This is the index?? 
-
-Let's see what happens...
+hello.
