@@ -1,4 +1,4 @@
-[research](./research.html)  |  [notes](./notes.html)  |  [reading list](./reading_list.html)  |  [stories](./story.html)  |  [miscellaneous](./miscellaneous.html)
+[home](./index.html)  |  [research](./research.html)  |  [notes](./notes.html)  |  [reading list](./reading_list.html)  |  [stories](./story.html)  |  [miscellaneous](./miscellaneous.html)
 
 
 I'm current second year undergraduate student majoring in Mathematics and Computer Science at Case Western Reserve University. I am curious on subjects related to probability and computation. Outside of academics, I am particularly involved in music (specifically jazz) and a big fan of cooking. Whenever I feel like I've been sitting on my chair for too long, I like to go bike around the neighborhood, travelling in a somewhat random way. Also, I enjoy writing on anything that's not the stack of blank paper in front of me (the windows in the living room, the piece of glass separating the shower and the toilet, etc). 
