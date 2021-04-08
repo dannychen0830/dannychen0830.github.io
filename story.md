@@ -14,7 +14,7 @@ Welcome to story time. I'll occasionally record funny/provocative/intriguing sto
 > 
 > Dr.Cowan reminded him that he was leaving. Then, Dr.Wiener replied:
 > 
-> "Oh! In that case, I must have eaten." And left the cafeteria.
+> "Oh! In that case, I must have eaten," and left the cafeteria.
 
 
 
