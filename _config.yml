@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
-gem "github-pages", group: :jekyll_plugins
 
 title: [Daniel Tzu Shiuan Chen]
 description: ["oh, hello there. \n Is this how you do next line??"]
