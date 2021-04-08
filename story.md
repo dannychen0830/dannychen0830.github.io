@@ -12,7 +12,7 @@ Welcome to story time. I'll occasionally record funny/provocative/intriguing sto
 > 
 > "Was I entering the cafeteria or was I about to leave?"
 > 
-> Dr.Cowan reminnded him that he was leaving. Then, Dr.Wiener replied:
+> Dr.Cowan reminded him that he was leaving. Then, Dr.Wiener replied:
 > 
 > "Oh! In that case, I must have eaten." And left the cafeteria.
 
