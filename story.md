@@ -1,4 +1,6 @@
-# Story time!
+## Story time!
 
-Separated by year?
-[2021](./story2021)
+Welcome to story time. I'll occasionally record funny/provocative/intriguing stories that I experienced or heard here. 
+
+
+[Back](./index.html)
