@@ -6,7 +6,7 @@ Welcome to story time. I'll occasionally record funny/provocative/intriguing sto
 ### 04.08.2021
 > This is a story told by professor Peter Thomas in MATH 378 (Computational Neuroscience).
 > 
-> Professor Thomas's advisor, Jack Cowan, studied at MIT when Norbert Wiener, who invented the Wiener Process, was there. Apparently, Dr. Wiener would lecture with a  chalk in one hand and eraser in the other. While he wrote the theorems and proofs down on the board with one hand, he would erase what was written immediately with the other. Professor Thomas conjectured that this was some type of mechanism for filtering those who are mathematically talented...
+> Professor Thomas's advisor, Jack Cowan, studied at MIT when Norbert Wiener, who invented the Wiener Process, was there. Apparently, Dr. Wiener would lecture with a  chalk in one hand and eraser in the other. While he wrote the theorems and proofs down on the board with one hand, he would erase what was written immediately with the other. Professor Thomas conjectured that this was some type of mechanism for finding those who are mathematically talented...
 > 
 > Also, there was once Dr. Cowan walked up to Dr.Wiener in the cafeteria as Dr. Wiener was about to leave. They talked for a bit. And upon ending the conversation, Dr. Wiener asked:
 > 
