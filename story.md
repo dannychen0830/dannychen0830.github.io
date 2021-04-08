@@ -1,3 +1,5 @@
+[research](./research.html)  |  [notes](./notes.html)  |  [reading list](./reading_list.html)  |  [stories](./story.html)  |  [miscellaneous](./miscellaneous.html)
+
 ## Story time!
 
 Welcome to story time. I'll occasionally record funny/provocative/intriguing stories that I experienced or heard here. 
@@ -15,7 +17,3 @@ Welcome to story time. I'll occasionally record funny/provocative/intriguing sto
 > Dr.Cowan reminded him that he was leaving. Then, Dr.Wiener replied:
 > 
 > "Oh! In that case, I must have eaten," and left the cafeteria.
-
-
-
-[Back](./index.html)
