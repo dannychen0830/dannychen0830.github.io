@@ -1,4 +1,4 @@
-[Link1](./testpage.html)
+[Link1](./story.html)
 
 This is the index?? 
 
