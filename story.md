@@ -21,7 +21,7 @@ Welcome to story time. I'll occasionally record funny/provocative/intriguing sto
 > My dad resolved the story: the spear salesman won, but not by showing that his spear can pentrate the strongest shield, but by stabbing the other saleman! The moral of the story is: if you can't beat you competitor through proper means, do it through an improper means! 
 
 
-### Dr.Wiener's Lunch
+### Dr. Wiener's Lunch
 > This is a story told by professor Peter Thomas in MATH 378 (Computational Neuroscience).
 > 
 > Professor Thomas's advisor, Jack Cowan, studied at MIT when Norbert Wiener, who invented the Wiener Process, was there. Apparently, Dr. Wiener would lecture with a  chalk in one hand and eraser in the other. While he wrote the theorems and proofs down on the board with one hand, he would erase what was written immediately with the other. Professor Thomas conjectured that this was some type of mechanism for finding those who are mathematically talented...
