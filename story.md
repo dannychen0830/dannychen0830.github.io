@@ -30,6 +30,6 @@ Welcome to the story section. I'll occasionally post funny/provocative/intriguin
 > 
 > "Was I entering the cafeteria or was I about to leave?"
 > 
-> Dr.Cowan reminded him that he was leaving. Then, Dr.Wiener replied:
+> Dr.Cowan reminded him that he was leaving. Then, Dr. Wiener replied:
 > 
 > "Oh! In that case, I must have eaten," and left the cafeteria.
