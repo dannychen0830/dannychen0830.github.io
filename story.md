@@ -18,7 +18,7 @@ Welcome to the story section. I'll occasionally post funny/provocative/intriguin
 > 
 > This is quite an unsatisfactory ending, isn't it? So, who won? Did they try stabbing the shield with the spear? Or did they awkwardly walk away from the smart dude who pointed everything out? Maybe they even partnered with each other and sold the shield and spear as a set for 15 percent off? 
 > 
-> Dr. KC resolved the story: the spear salesman won, but not by showing that his spear can pentrate the strongest shield, but by stabbing the other saleman! The moral of the story is: if you can't beat you competitor through proper means, do it through an improper means! 
+> Dr. KC resolved the mystery: the spear salesman won, but not by showing that his spear can pentrate the strongest shield, but by stabbing the other saleman! The moral of the story is: if you can't beat you competitor through proper means, do it through an improper means! 
 
 
 ### Dr. Wiener's Lunch
