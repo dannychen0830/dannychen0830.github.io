@@ -2,7 +2,7 @@
 
 ## Story time!
 
-Welcome to story time. I'll occasionally record funny/provocative/intriguing stories that I experienced or heard here. 
+Welcome to the story section. I'll occasionally post funny/provocative/intriguing stories. This is not meant to be educational. It's up for you to determine the real part and the _complex_ part.
 
 
 ### The Spear and the Shield
