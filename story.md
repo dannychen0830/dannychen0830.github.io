@@ -14,9 +14,9 @@ Welcome to story time. I'll occasionally record funny/provocative/intriguing sto
 > 
 > "Come buy my spear! It's the sharpest spear in the world! It can pierce through any object!" The other saleman yelled.
 > 
-> Then, a curious guy came along and asked, "Well, if you, sir, have the strongest spear and you, sir, have the strongest shield, then why don't you try stabbing the strongest shield with the strongest spear?" This is paradoxal because one of the saleman must be false. Hence, the word "spear-shield." 
+> Then, a curious guy came along and asked, "Well, if you, sir, have the strongest spear and you, sir, have the strongest shield, then why don't you try stabbing the strongest shield with the strongest spear?" This is paradoxal because one of the saleman must be lying. Hence, the word "spear-shield." 
 > 
-> This is quite an unsatisfactory ending, isn't it? So, who won? Did they try stabbing the shield with the spear? Or did they awkwardly walk away from the smart dude who pointed everything out the paradox? Maybe they even partnered with each other and sold the shield and spear as a set for 15 percent off? 
+> This is quite an unsatisfactory ending, isn't it? So, who won? Did they try stabbing the shield with the spear? Or did they awkwardly walk away from the smart dude who pointed everything out? Maybe they even partnered with each other and sold the shield and spear as a set for 15 percent off? 
 > 
 > My dad resolved the story: the spear salesman won, but not by showing that his spear can pentrate the strongest shield, but by stabbing the other saleman! The moral of the story is: if you can't beat you competitor through proper means, do it through an improper means! 
 
