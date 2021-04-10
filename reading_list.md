@@ -12,3 +12,7 @@ Mezard, Marc, and Andrea Montanari. Information, physics, and computation. Oxfor
 
 ### Statistical Inference
 Zdeborová, Lenka, and Florent Krzakala. "Statistical physics of inference: Thresholds and algorithms." Advances in Physics 65.5 (2016): 453-552.
+
+
+### Algorithms
+Zhao, Tianchen, et al. "Natural evolution strategies and variational Monte Carlo." Machine Learning: Science and Technology 2.2 (2020): 02LT01.
