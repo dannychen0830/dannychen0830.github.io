@@ -12,7 +12,7 @@ As mentioned before, my interest lies in stochastic things; stochastic processes
 The other I'm less familiar with since it's more physics heavy, so I cannot provide much intuition. In essence, we solve combinatorial optimization problems by playing off of the traditional simulated annealing scheme. But, instead of annealing while mixing a Markov Chain that tends towards the Boltzmann distribution, we set up an parameterized distribution (using a neural network) to model the wave function and find the minimal energy configuration. This work is done by Mohamed Hibat-Allah et. al, and this is something I will work on over the summer.
 
 
-References:
+**References:**
 
 Tang, Ewin. "A quantum-inspired classical algorithm for recommendation systems." Proceedings of the 51st Annual ACM SIGACT Symposium on Theory of Computing. 2019.
 
