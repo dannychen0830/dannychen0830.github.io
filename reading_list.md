@@ -2,12 +2,9 @@
 
 ## Reading List
 
-This is an idea taken from Professor Cosma Shalizi at CMU. I'll put some reading goals down and, if motivated enough, typeset it and store a summary in [notes](./notes.html).
+This is an idea taken from [Professor Cosma Shalizi](http://bactra.org/notebooks/) at CMU. I'll put some reading goals down and, if motivated enough, typeset it and store a summary in [notes](./notes.html).
 
-### Computation
-Feynman, Richard P. Feynman lectures on computation. CRC Press, 2018.
-
-Mezard, Marc, and Andrea Montanari. Information, physics, and computation. Oxford University Press, 2009.
+[Physics and Computation](./reading_list/physics_and_computation.html)
 
 
 ### Statistical Inference
