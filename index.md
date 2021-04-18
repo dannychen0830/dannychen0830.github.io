@@ -7,4 +7,4 @@ I'm now heavily considering applying for graduate school (Ph.D programs) next se
 
 This is my [Google Scholar](https://scholar.google.com/citations?hl=en&user=W72N33YAAAAJ) if you're interested in my research (hopefully, many to come). You can also look at the research tab for a tad more details.
 
-Here's a [test](./test1.html).
+Here's a [test](./test/test1.html).
