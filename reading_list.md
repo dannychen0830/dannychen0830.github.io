@@ -9,7 +9,7 @@ This is an idea taken from [Professor Cosma Shalizi](http://bactra.org/notebooks
 [Physics and Computation](./reading_list/physics_and_computation.html)
 
 
-[Statistical Inference])(./reading_list/statistical_inference.html)
+[Statistical Inference](./reading_list/statistical_inference.html)
 
 
 [Algorithms](./reading_list/algorithms.html)
