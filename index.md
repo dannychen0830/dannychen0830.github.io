@@ -6,3 +6,5 @@ I'm current second year undergraduate student majoring in Mathematics and Comput
 I'm now heavily considering applying for graduate school (Ph.D programs) next semester! If you happen to stumble on upon this website and is willing to offer advice for that, I will be more than happy to connect with you. I'm easily reachable at **txc461@case.edu** (in fact, I'm better at replying emails than text or any other form of messages).
 
 This is my [Google Scholar](https://scholar.google.com/citations?hl=en&user=W72N33YAAAAJ) if you're interested in my research (hopefully, many to come). You can also look at the research tab for a tad more details.
+
+Here's a [test](./test.html).
