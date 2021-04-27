@@ -1,3 +1,5 @@
+[Back](./blog.md)
+
 ## On High School
 
 Just today, I was listening to a few of those _high school/college freshmen advice_ videos on Youtube while Latexing my statistics homework. Having people talking in the background ~~instead of the sound of cranes fighting~~ somehow made me more productive in typing down my solutions already written on a sheet of paper. They advocated for a few things generally:
