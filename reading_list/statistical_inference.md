@@ -1,4 +1,4 @@
-[home](./index.html)  |  [research](./research.html)  |  [notes](./notes.html)  |  [reading list](./reading_list.html)  |  [stories](./story.html)  |  [miscellaneous](./miscellaneous.html)
+[home](/../../index.html)  |  [research](/../../research.html)  |  [notes](/../../notes.html)  |  [reading list](/../../reading_list.html)  |  [stories](/../../story.html)  |  [miscellaneous](/../../miscellaneous.html)
 
 
 ## Statistical Inference
