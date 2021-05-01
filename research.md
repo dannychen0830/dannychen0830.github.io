@@ -2,7 +2,7 @@
 
 ## Research
 
-As mentioned before, my interest lies in stochastic things; stochastic processes and probabilistic algorithms are two of my current favorite. More specifically, I'm interested in studying algorithms on classical and (occasionally) quantum computers, as well as phenomena observed in biological systems (particularly neural systems). I have also developed a new-found appreciation for statistical mechanics and its applications in computation and modeling; having had barely any physics background, getting better at it is one of my goals for the next year or two. Hopefully, these tools rooted in probability theory can offer invaluable insights to some of the biggest problems. Below, I have listed a few projects that I have been working on recently.
+As mentioned before, my interest lies in stochastic things, especially applications of stochastic processes (so, biological applications, MCMC, nonparametric Bayes, etc). I have also developed a new-found appreciation for statistical mechanics and its applications in computation and modeling. Below, I have listed a few projects that I have been working on recently.
 
 ### Quantum-Inspired Computation
 
