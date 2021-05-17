@@ -7,16 +7,14 @@ This is an idea taken from [Professor Cosma Shalizi](http://bactra.org/notebooks
 ### Readings Now or in the Near Future
 Amir, Ariel. "Thinking Probabilistically."
 
-Williams, David. Probability with martingales. Cambridge university press, 1991.
-
-Çınlar, Erhan. Probability and stochastics. Vol. 261. Springer Science & Business Media, 2011.
+Gardiner, Crispin. Stochastic methods. Vol. 4. Berlin: Springer, 2009.
 
 ### Readings to do... eventually
 
+[Algorithms](./reading_list/algorithms.html)
+
 [Physics and Computation](./reading_list/physics_and_computation.html)
 
+[Probability Theory](./reading_list/probability_theory.html)
 
 [Statistical Inference](./reading_list/statistical_inference.html)
-
-
-[Algorithms](./reading_list/algorithms.html)
