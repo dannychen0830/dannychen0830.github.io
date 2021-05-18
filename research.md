@@ -2,7 +2,7 @@
 
 ## Research
 
-As mentioned before, my interest lies in stochastic things (so, things like stochastic processes and statistics). I have also developed a new-found appreciation for statistical mechanics, or just physics in general, and its applications in computation and modeling. Below, I have listed a few projects that I have been working on recently.
+As mentioned before, my interest lies in stochastic things. I have also developed a new-found appreciation for statistical mechanics, or just physics in general, and its applications in computation and modeling. Below, I have listed a few projects that I have been working on recently.
 
 ### Quantum-Inspired Computation
 
