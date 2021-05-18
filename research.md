@@ -18,5 +18,3 @@ Below, I have listed a (few) project(s) that I have been working on recently.
 > Kerenidis, Iordanis, and Anupam Prakash. "Quantum Recommendation Systems." 8th Innovations in Theoretical Computer Science Conference (ITCS 2017). Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik, 2017.
 >
 > Gilyén, András, Zhao Song, and Ewin Tang. "An improved quantum-inspired algorithm for linear regression." arXiv preprint arXiv:2009.07268 (2020).
-> 
-> Hibat-Allah, Mohamed, et al. "Variational Neural Annealing." arXiv preprint arXiv:2101.10154 (2021).
