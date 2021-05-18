@@ -2,6 +2,7 @@
 
 ## Miscellaneous
 
-This would be for my interest outside of academics. I don't know what I would put here yet, but there will be something here eventually.
+This would be for my interest outside of academics in case you want to know me better ~~as if having a story page is not weird enough~~.
 
-Here is [a few ~~rant~~ blog posts](./blog/blog.md)! 
+- Here are a few [musicians](./random/music.html) you should check out...
+- Here is [a few ~~rant~~ blog posts](./blog/blog.md)! 
