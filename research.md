@@ -2,7 +2,7 @@
 
 ## Research
 
-As mentioned before, my interest lies in stochastic things. I have also developed a new-found appreciation for statistical mechanics, or just physics in general, and its applications in computation and modeling. For the specifics, perhaps the [looking at what I am/want to read](./reading_list.html) would help. 
+As mentioned before, my interest lies in stochastic things. I have also developed a new-found appreciation for statistical mechanics, or just physics in general, and its applications in computation and modeling. For the specifics, perhaps looking at [what I am reading/want to read](./reading_list.html) would help. 
 
 Below, I have listed a (few) project(s) that I have been working on recently.
 
