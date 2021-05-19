@@ -7,3 +7,5 @@ Here are my blog posts in reversed-chronological order (I doubt this structure w
 
 ### 2021
 [On High School/College Apps](./OnHighSchool.md)
+
+[Things I have to be better at](./reflection.md)
