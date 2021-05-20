@@ -2,12 +2,17 @@
 
 ## Reading List
 
-This is an idea taken from [Professor Cosma Shalizi](http://bactra.org/notebooks/) at CMU. I'll put some reading goals down and, if motivated enough, typeset it and store a summary in [notes](./notes.html).
+This will be my study plans for the future. This is an idea inspired by [Professor Cosma Shalizi](http://bactra.org/notebooks/) at CMU. I'll put some reading goals down and, if motivated enough, typeset it and store a summary in [notes](./notes.html).The first section is there to keep myself on track, and the second section archieves the potential readings.
 
-### Readings Now or in the Near Future
-Amir, Ariel. "Thinking Probabilistically."
+### Readings for Summer 2021
 
-Gardiner, Crispin. Stochastic methods. Vol. 4. Berlin: Springer, 2009.
+- (Less Formal) Amir, Ariel. "Thinking Probabilistically."
+- Gardiner, Crispin. Stochastic methods. Vol. 4. Berlin: Springer, 2009.
+
+### Readings Ideas for Fall 2021
+
+- Schilling, René L. Measures, integrals and martingales. Cambridge University Press, 2017.
+
 
 ### Readings to do... eventually
 
