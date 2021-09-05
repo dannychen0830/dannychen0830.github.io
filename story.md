@@ -5,6 +5,34 @@
 Welcome to the story section. I'll occasionally post funny/provocative/intriguing stories. This is not meant to be educational.
 
 
+### Footsteps (Inspired by true story. Discretion is advised...)
+> It was a Sunday afternoon and I was home alone. I lived on the forth floor of a slightly old-looking building. There was an exam the next day, and I was sitting in front of my desk battling with the math textbook. The sunshine traveled through the half-opened blind into my room. It would have been a great day to just relax and bath under the sunlight. But there was a test.
+> 
+> I remembered a particular scene from a TV show reenacting stories of haunted houses. The family was moving out of the house when the undead man appeared behind the escaping lady and attempted to keep her in the building he claimed for himself. It was a Sunday afternoon like this, too. 
+> 
+> Upon this thought, the sun hid behind the cloud and wind seeped into the seemingly closed window. And then it went silent, leaving only the sound of steady footsteps:
+> 
+> Flap, flap, flap...
+> 
+> It sounded like a man, a grown man, slowly and steadily climbing up the dark, twirly staircase. Who could it be?
+> 
+> Flap, flap, flap...
+>
+> The racing heartbeat juxoposes the metronome-like footsteps. Like an amateur jazz band playing a slow swinging blues, each heartbeat just landed slightly in front of the intended placement. I couldn't focus on the test prep as my fingers grew rigid and back muscles tensed up. As if it was also afraid, the sun buried itself in the blanket of clouds, leaving me in the dark, slightly chilly room, alone. 
+> 
+> Flap, flap, flap...
+> 
+> If it was a person, he would've arrived by now. But he kept walking, closer and closer, slowly and deliberately, as if he was coming for me. 
+> 
+> Flap, flap.
+> 
+> It stopped. The wind crawled into the room and tickled my calves. I put my head down. I held my breath as if it will somehow conceal my existence. My door creaked loudly as it slowly shut itself, leaving me in the dark, slightly chilly room, alone, with no escapes.
+> 
+> The obnoxiously loud crash of the front door breaks the silence like the fireworks celebrating the return of heroic soldiers -- my parents were back. I jumped up and sprinted through the door and ran as fast as I could down the four-story building, trying to forget that I wasn't the only one who walked down that flight of stairs that afternoon. I safely reached the ground floor and tears bursted out of my tiny eye sockets and my parents comforted me. I was not alone. The sun peeked at the reunited family and, once again, warmed the earth for the last time of the day.
+> 
+> I've never heard those footsteps again.
+
+
 ### The Spear and the Shield
 > The word for "contradictory" in Mandarin is 矛盾; the former character means spear, and the latter means shield. And the story goes as follow.
 > 
