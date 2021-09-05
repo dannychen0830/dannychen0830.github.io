@@ -6,9 +6,9 @@ Welcome to the story section. I'll occasionally post funny/provocative/intriguin
 
 
 ### Footsteps (Inspired by true story. Discretion is advised...)
-> It was a Sunday afternoon and I was home alone. I lived on the forth floor of a slightly old-looking building. There was an exam the next day, and I was sitting in front of my desk battling with the math textbook. The sunshine traveled through the half-opened blind into my room. It would have been a great day to just relax and bath under the sunlight. But there was a test.
+> It was a Sunday afternoon and I was home alone. I lived on the forth floor of a slightly old-looking building. There was an exam the next day, and I was sitting in front of my desk battling with the math textbook. The sunshine traveled through the half-opened blind into my room. It would have been a great day to just relax and bathe under the sunlight. But there was a test.
 > 
-> I remembered a particular scene from a TV show reenacting stories of haunted houses. The family was moving out of the house when the undead man appeared behind the escaping lady and attempted to keep her in the building he claimed for himself. It was a Sunday afternoon like this, too. 
+> This reminded me of a particular scene from a TV show reenacting stories of haunted houses. The family was moving out of the house when the undead man appeared behind the escaping lady and attempted to keep her in the building he claimed for himself. It was a Sunday afternoon like this, too. 
 > 
 > Upon this thought, the sun hid behind the cloud and wind seeped into the seemingly closed window. And then it went silent, leaving only the sound of steady footsteps:
 > 
@@ -26,9 +26,9 @@ Welcome to the story section. I'll occasionally post funny/provocative/intriguin
 > 
 > Flap, flap.
 > 
-> It stopped. The wind crawled into the room and tickled my calves. I put my head down. I held my breath as if it will somehow conceal my existence. My door creaked loudly as it slowly shut itself, leaving me in the dark, slightly chilly room, alone, with no escapes.
+> It stopped. Wind crawled into the room and tickled my calves. I put my head down. I held my breath as if it will somehow conceal my existence. My door creaked loudly while it slowly shut itself, leaving me in the dark, slightly chilly room, alone, and with no escapes.
 > 
-> The obnoxiously loud crash of the front door breaks the silence like the fireworks celebrating the return of heroic soldiers -- my parents were back. I jumped up and sprinted through the door and ran as fast as I could down the four-story building, trying to forget that I wasn't the only one who walked down that flight of stairs that afternoon. I safely reached the ground floor and tears bursted out of my tiny eye sockets and my parents comforted me. I was not alone. The sun peeked at the reunited family and, once again, warmed the earth for the last time of the day.
+> The obnoxiously loud crash of the front door breaks the silence like the fireworks celebrating the return of heroic soldiers -- my parents were back. I jumped up and sprinted through the door and ran as fast as I could down the four-story building, trying to forget that I wasn't the only one who walked that flight of stairs that afternoon. I safely reached the ground floor and tears bursted out of my tiny eye sockets while my parents comforted me. I was not alone. The sun peeked at the reunited family and warmed the earth for the last time of the day.
 > 
 > I've never heard those footsteps again.
 
