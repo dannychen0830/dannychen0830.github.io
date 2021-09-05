@@ -4,12 +4,12 @@
 
 This will be my study plans for the future. This is an idea inspired by [Professor Cosma Shalizi](http://bactra.org/notebooks/) at CMU. I'll put some reading goals down and, if motivated enough, typeset it and store a summary in [notes](./notes.html).The first section is there to keep myself on track, and the second section archieves the potential readings.
 
-### Readings for Summer 2021
+### Readings for right now
 
-- (Less Formal) Amir, Ariel. "Thinking Probabilistically."
+- Amir, Ariel. "Thinking Probabilistically."
 - Gardiner, Crispin. Stochastic methods. Vol. 4. Berlin: Springer, 2009.
 
-### Readings Ideas for Fall 2021
+### Readings Ideas for the near future
 
 - Schilling, René L. Measures, integrals and martingales. Cambridge University Press, 2017.
 
