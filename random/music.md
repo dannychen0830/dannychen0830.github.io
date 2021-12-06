@@ -1,6 +1,6 @@
 ## My Music Page!
 
-For those sharp-11 enthusiasts out there, welcome! Hopefully you wouldn't mind my naive effort in putting this page together. For those who can't handle as much spice, you're also welcomed. It's 
+For those sharp-11 enthusiasts out there, welcome! Hopefully you wouldn't mind my naive effort in putting this page together. For those who can't handle as much spice, you're also welcomed. Hopefully you can start building you spice tolerance; you don't need to like spice, but you need to appreciate it in order to have good taste.
 
 ### Good musicians to check out
 
