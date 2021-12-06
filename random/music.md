@@ -15,4 +15,4 @@ Just as an FYI, this list will mostly be comprised of saxophone players as I am 
 
 Just like how I write stories, I try to write music if I have time. I have one composition titled *Yogurt* that is written sloppily, so I'm not posting that. Hopefully, there's one more to come. 
 
-[Peanut Butter](../pdf/Peanut Butter_3 - Full Score.pdf)
+[Peanut Butter](../pdf/Peanut_Butter_Full_Score.pdf)
