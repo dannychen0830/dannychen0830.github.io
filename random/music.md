@@ -2,7 +2,7 @@
 
 For those sharp-11 enthusiasts out there, welcome! Hopefully you wouldn't mind my naive effort in putting this page together. For those who can't handle as much spice, you're also welcomed. It's 
 
-# Good musicians to check out
+### Good musicians to check out
 
 Just as an FYI, this list will mostly be comprised of saxophone players as I am one myself. 
 
@@ -11,7 +11,7 @@ Just as an FYI, this list will mostly be comprised of saxophone players as I am 
 3. [Lucas Pino](https://www.lucaspino.com/): His (and Tony Lustig's) rendition of [_Lines for Lyons_](https://www.youtube.com/watch?v=vCkmse__Rjg) inspired me to pick up a tenor saxophone. I would vote him as the tenor player with the best sound any day (yes, in the history of mankind).
 4. [Maria Schneider](https://www.mariaschneider.com/): Got free tickets to her concert with the Cleveland Jazz Orchestra once and I was probably the best thing that happened that year. It was crazy how articulate she is without using words; her music transports to her world where you see what she sees, hear what she hears, and feel what she feels. ~~The only thing I don't admire about her is her view on AI...~~  
 
-# Some of my compositions
+### Some of my compositions
 
 Just like how I write stories, I try to write music if I have time. I have one composition titled *Yogurt* that is written sloppily, so I'm not posting that. Hopefully, there's one more to come. 
 
