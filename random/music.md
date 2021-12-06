@@ -15,4 +15,4 @@ Just as an FYI, this list will mostly be comprised of saxophone players as I am 
 
 Just like how I write stories, I try to write music if I have time. I have one composition titled *Yogurt* that is written sloppily, so I'm not posting that. Hopefully, there's one more to come. 
 
-[Peanut Butter](../pdf/Peanut_Butter_Full_Score.pdf)
+[Peanut Butter](../pdf/Peanut_Butter_Full_Score.pdf): This is my AP music theory project. It's ... ok. I would like to acknowledge Michael Hu for his help on many interesting things in the piece, Rintaro Fukasawa for offering to play the awful double stops, and Craig Sandford for teaching me music theory.
