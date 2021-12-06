@@ -1,6 +1,8 @@
-[home](./index.html)  |  [research](./research.html)  |  [notes](./notes.html)  |  [reading list](./reading_list.html)  |  [stories](./story.html)  |  [miscellaneous](./miscellaneous.html)
+[home](./index.html)  |  [research](./research.html)  |  [notes](./notes.html)  |  [reading list](./reading_list.html)  |  [miscellaneous](./miscellaneous.html)
 
 ## Research
+
+*To Update*
 
 As mentioned before, my interest lies in stochastic things. More specifically, how randomness is used/dealt with in computation and dynamical systems. I have also developed a new-found appreciation for statistical mechanics, or just physics in general, and its applications in computation and modeling. Both discrete and continuous entities are welcomed. For the specifics, perhaps looking at [what I am reading/want to read](./reading_list.html) would help. 
 
