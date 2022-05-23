@@ -1,7 +1,7 @@
 [home](./index.html)  |  [research](./research.html)  |  [notes](./notes.html)  |  [reading list](./reading_list.html)  |  [miscellaneous](./miscellaneous.html)
 
 
-I'm Daniel Tzu Shiuan Chen:
+I'm Danny:
 
 - computer scientist in the day
 - applied mathematician at night
