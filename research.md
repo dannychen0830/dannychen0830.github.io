@@ -11,5 +11,5 @@ My interest broadly lies in dynamical and statistical properties of stochastic s
 
 More often then not, we use randomness because we have to (we, from our selfish perspectives, live in an imperfect world afterall). Every experiment comes with an unenumerable list of confounding factors, and probability provides a language for being "hand-wavy" towards these external influences while productively drawing conclusions. However, through recent years, we've found many examples in natural world and engineering choices where stochasticity is intrinsic and/or beneficial! 
 
-For the specifics, perhaps looking at [what I am reading/want to read](./reading_list.html) would help. 
+For some concrete examples, in addition to original results in [Google Scholar](https://scholar.google.com/citations?user=W72N33YAAAAJ&hl=en), the [notes page](./notes.html) will show you a few things I know and the [reading list page](./reading_list.html) will tell you where I'm heading next. 
 
