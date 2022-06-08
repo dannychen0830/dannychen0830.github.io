@@ -4,8 +4,10 @@
 
 ### Reading List
 
-Billingsley, Patrick. Probability and measure. John Wiley & Sons, 2008.
+Billingsley, Patrick. _Probability and measure_. John Wiley & Sons, 2008.
 
-Williams, David. Probability with martingales. Cambridge university press, 1991.
+Williams, David. _Probability with martingales_. Cambridge university press, 1991.
 
-Çınlar, Erhan. Probability and stochastics. Vol. 261. Springer Science & Business Media, 2011.
+Amir, Ariel. _Thinking Probabilistically: Stochastic Processes, Disordered Systems, and Their Applications_. Cambridge University Press, 2020.
+
+Gardiner, Crispin W. _Handbook of stochastic methods_. Vol. 3. Berlin: springer, 1985.
