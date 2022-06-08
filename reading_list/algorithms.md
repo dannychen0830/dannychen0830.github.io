@@ -4,4 +4,4 @@
 ## Algorithms
 
 ### Reading List
-Zhao, Tianchen, et al. "Natural evolution strategies and variational Monte Carlo." _Machine Learning: Science and Technology_ 2.2 (2020): 02LT01.
+Zhao, Tianchen, Giuseppe Carleo, James Stokes, and Shravan Veerapaneni. "Natural evolution strategies and variational Monte Carlo." _Machine Learning: Science and Technology_ 2, no. 2 (2020): 02LT01.
