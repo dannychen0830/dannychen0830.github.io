@@ -13,6 +13,7 @@ This will be my study plans for the future. This is an idea inspired by [Profess
 - Çinlar, Erhan, and E. ðCınlar. _Probability and Stochastics_. Vol. 261. New York: Springer, 2011.
 - Oksendal, Bernt. _Stochastic Differential Equations: An Introduction with Applications_. Springer Science & Business Media, 2013.
 - Tu, Loring W. _An Introduction to Manifolds_. New York, N.Y: Springer, 2011. 
+
 ### Readings to do... eventually
 
 [Algorithms](./reading_list/algorithms.html)
