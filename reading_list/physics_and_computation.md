@@ -3,7 +3,7 @@
 ## Physics and Computation
 
 ### Reading List
-Feynman, Richard P. Feynman lectures on computation. CRC Press, 2018.
+Feynman, Richard P., Tony Hey, and Robin W. Allen. _Feynman Lectures on Computation_. CRC Press, 2018.
 
-Mezard, Marc, and Andrea Montanari. Information, physics, and computation. Oxford University Press, 2009.
+Mezard, Marc, and Andrea Montanari. _Information, Physics, and Computation_. Oxford University Press, 2009.
 
