@@ -11,7 +11,7 @@ This will be my study plans for the future. This is an idea inspired by [Profess
 ### Readings Ideas for the near future
 
 - Çinlar, Erhan, and E. ðCınlar. _Probability and Stochastics_. Vol. 261. New York: Springer, 2011.
-- Oksendal, Bernt. _Stochastic Differential equations: an introduction with applications_. Springer Science & Business Media, 2013.
+- Oksendal, Bernt. _Stochastic Differential Equations: An Introduction with Applications_. Springer Science & Business Media, 2013.
 
 ### Readings to do... eventually
 
