@@ -6,13 +6,12 @@ This will be my study plans for the future. This is an idea inspired by [Profess
 
 ### Readings for right now
 
-- Amir, Ariel. "Thinking Probabilistically."
-- Gardiner, Crispin. Stochastic methods. Vol. 4. Berlin: Springer, 2009.
+- Harris, Rosemary J., and Gunther M. Schütz. "Fluctuation theorems for stochastic dynamics." _Journal of Statistical Mechanics: Theory and Experiment_ 2007, no. 07 (2007): P07020.
 
 ### Readings Ideas for the near future
 
-- Schilling, René L. Measures, integrals and martingales. Cambridge University Press, 2017.
-
+- Çinlar, Erhan, and E. ðCınlar. _Probability and Stochastics_. Vol. 261. New York: Springer, 2011.
+- Oksendal, Bernt. _Stochastic Differential equations: an introduction with applications_. Springer Science & Business Media, 2013.
 
 ### Readings to do... eventually
 
