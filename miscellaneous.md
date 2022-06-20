@@ -2,6 +2,9 @@
 
 ## Miscellaneous
 
+![](./images/logo.png)
+
+
 This would be for my interest outside of academics in case you want to know me better.
 
 - Here are a few things about [music](./random/music.html) in case you're also interested in jazz. 
