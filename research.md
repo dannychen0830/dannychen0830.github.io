@@ -6,8 +6,7 @@ My interest broadly lies in dynamical and statistical properties of stochastic s
 
 - information processing in cells
 - quantum circuit cutting and fragment reconstruction
-- training dynamics in deep neural networks
-- theory and application of Markov chain monte carlo 
+- applications of Markov chains (both discrete and continuous!) 
 
 More often then not, we use randomness because we have to (we, from our selfish perspectives, live in an imperfect world afterall). Every experiment comes with an unenumerable list of confounding factors, and probability provides a language for being "hand-wavy" towards these external influences while productively drawing conclusions. However, through recent years, we've found many examples in natural world and engineering choices where stochasticity is intrinsic and/or beneficial! 
 
