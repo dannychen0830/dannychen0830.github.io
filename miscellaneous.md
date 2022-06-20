@@ -2,10 +2,9 @@
 
 ## Miscellaneous
 
+This would be for my interest outside of academics in case you want to know me better. Before anything, this is Cola! 
+
 ![](./images/logo.png)
-
-
-This would be for my interest outside of academics in case you want to know me better.
 
 - Here are a few things about [music](./random/music.html) in case you're also interested in jazz. 
 - Here are some [stories](./story.html) written by me. Most (if not all) of them are either stories I heard or inspired by true encounters.
