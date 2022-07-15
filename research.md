@@ -2,7 +2,7 @@
 
 ## Research
 
-> We have not succeeded in answering all our problems. The answers we have found only serve to raise a whole set of new questions. In some ways we feel we are as confused as ever, but we believe we are confused on a higher level and about more important things. 
+> "We have not succeeded in answering all our problems. The answers we have found only serve to raise a whole set of new questions. In some ways we feel we are as confused as ever, but we believe we are confused on a higher level and about more important things."
 > 
 > -- from Oksendal's Stochastic Differential Equations book`
 
