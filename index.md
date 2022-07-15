@@ -1,6 +1,7 @@
 [home](./index.html)  |  [research](./research.html)  |  [notes](./notes.html)  |  [reading list](./reading_list.html)  |  [miscellaneous](./miscellaneous.html)
 
 > "Luck is when preparation meets opportunity" 
+> 
 > -- Terence Blanchard 
 
 I'm Danny:
