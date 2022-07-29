@@ -10,7 +10,7 @@ I'm Danny:
 - applied mathematician at night
 - (aspiring) physicist at heart
 
-I recieved my Bachelor's degrees in Mathematics Computer Science from Case Western Reserve University. My research interest lies generally in stochastic processes and inference. More details are provided in my [research page](./research.html) or can be found on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=W72N33YAAAAJ).
+I recieved my Bachelor's degrees in Mathematics and Computer Science from Case Western Reserve University. My research interest lies generally in stochastic processes and inference. More details are provided in my [research page](./research.html) or can be found on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=W72N33YAAAAJ).
 
 If you happen to stumble on upon this website and wants to reach out to me about research, notes, hobbies, grad school apps, I will be more than happy to connect with you. I'm easily reachable at **txc461@case.edu**. 
 
