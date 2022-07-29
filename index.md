@@ -12,5 +12,5 @@ I'm Danny:
 
 I recieved B.A. in Mathematics and B.A. Computer Science at Case Western Reserve University. My research interest lies generally in stochastic processes and inference. More details are provided in my [research page](./research.html) or can be found on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=W72N33YAAAAJ).
 
-If you happen to stumble on upon this website and wants to reach out to me about my research, notes, hobbies, grad school apps advice, I will be more than happy to connect with you. I'm easily reachable at **txc461@case.edu**. 
+If you happen to stumble on upon this website and wants to reach out to me about research, notes, hobbies, grad school apps, I will be more than happy to connect with you. I'm easily reachable at **txc461@case.edu**. 
 
