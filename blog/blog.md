@@ -6,7 +6,7 @@ Here are my blog posts in chronological order (I doubt this structure would chan
 
 
 ### 2022 
-[My first workshop... and it's overseas!](./BanffJournal.md)
+[My first workshop... and it's overseas!](./banff-journal.md)
 
 
 ### 2021
