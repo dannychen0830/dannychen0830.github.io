@@ -27,4 +27,4 @@ Today stuff
 Talk highlights
 
 Tunnel mountain hike 
-![](../images/tunnel-mountain-photo.HEIC)
+![](../images/tunnel-mountain-photo.png)
