@@ -15,3 +15,16 @@ Canada gives a very relaxing vibe to me. It feels familiar because it's in Engli
 I will be heading to Calgary in a couple of hours, then taking a bus from the airport to the Banff Center (or the Banff _Centre_ to be authentic). It will be at least 10pm Banff time when I settle down, which is 12pm Eastern time. I think at that point, I would be too exhausted to type, but I might upload a few pictures if there are nice views during the ride. 
 
 -- 08.07.2022 at Toronto Pearson Airport, Gate D38. 
+
+
+### Day 1 - the scary day 
+
+First, an update on yesterday. 
+- MD PhD met on toronto airport
+- The topping makes the hot dog, or the other way. 
+
+Today stuff 
+Talk highlights
+
+Tunnel mountain hike 
+![](../images/tunnel-mountain-photo.HEIC)
