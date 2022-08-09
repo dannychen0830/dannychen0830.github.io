@@ -19,12 +19,8 @@ I will be heading to Calgary in a couple of hours, then taking a bus from the ai
 
 ### Day 1 - the scary day 
 
-First, an update on yesterday. 
-- MD PhD met on toronto airport
-- The topping makes the hot dog, or the other way. 
+First, an update on yesterday. I met a fresh MD PhD graduate yesterday at the Toronto airport. Just from the few minutes of talking, I can tell that he's extremely competent and collected. He reminds me of my roommate in last year, so I really enjoyed talking to him. After the 4 hour flight to Calgary, I had dinner at the 7-11 next to baggage claim. The food is standard. 7-11 hotdogs in the Northan American region will never match the  ones in Taiwan :( 
 
-Today stuff 
-Talk highlights
+Today (or yestderday, as I was to tired to write this last night) was a fun day. I got to meet those I worked with on Zoom in-person! It was very odd knowing a person online for a whole year and finally knowing what the person is like. Zoom camera always distorts the person in some way. Out of all the talks, I liked [Oleg's](https://igoshin.rice.edu/) talk on thermodynamical trade-offs in kinetic proof reading and [Zhiyue's](https://chem.unc.edu/faculty/lu-zhiyue/) talk on biological sensing and its multiplexing complexity. Lastly, we went on a hike up Tunnel Mountain (see below). Spectacular views and the hike is not difficult. But I guess I was out of shape, that's why this entry is delayed! 
 
-Tunnel mountain hike 
 ![](../images/tunnel-mountain-photo.png)
