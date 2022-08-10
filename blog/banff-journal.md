@@ -24,3 +24,13 @@ First, an update on yesterday. I met a fresh MD PhD graduate yesterday at the To
 Today (or yestderday, as I was to tired to write this last night) was a fun day. I got to meet those I worked with on Zoom in-person! It was very odd knowing a person online for a whole year and finally knowing what the person is like. Zoom camera always distorts the person in some way. Out of all the talks, I liked [Oleg's](https://igoshin.rice.edu/) talk on thermodynamical trade-offs in kinetic proof reading and [Zhiyue's](https://chem.unc.edu/faculty/lu-zhiyue/) talk on biological sensing and its multiplexing complexity. Lastly, we went on a hike up Tunnel Mountain (see below). Spectacular views and the hike is not difficult. But I guess I was out of shape, that's why this entry is delayed! 
 
 ![](../images/tunnel-mountain-photo.png)
+
+
+### Day 2 - the relaxing day 
+
+As I was walking down to the meeting room today, the mountains seemed very unreal. [Alex](https://www.alexanderstrang.com/) suggested that it is because the contours are so well defined on the mountains that created the illusion of being "pasted" onto the background. Banff is truly magnificient and I recommend everyone to come visit. Again quoting Alex, we humans often think that the world is so small, the grandness of the Earth is only prevalent when you come to places like Banff. 
+
+Today's talk was also great. My favorite was Professor Thomas and [Professor Pierbon's](]https://mbite.unl.edu/massimiliano-pierobon) talk on introducing semantics into Shannon's information theory and [Purushottam's](https://www.phys.ufl.edu/wp/index.php/people/faculty/purushottam-dixit/) talk on cellular communication conditioning on the cell states. 	I also really want to learn more about [Francesco's](https://scholar.google.it/citations?user=rMRMWuwAAAAJ&hl=it) talk on information thermodynamics (or just statistical physics in general). 
+
+I also got to talk to more people and learned about the benefits of having twins. [Professor Hinczewski](https://hinczlab.org/) said (I forgot if it is an exact quote) "don't wait on life." Don't get too absorbed in academics and live in the present. Looking at the mountains and rivers certainly exaggerates (or simply reminds) the fundamental time scale differences, which gives birth to an appreciation for each moment that I have. Ughh... it's getting too corny.
+
