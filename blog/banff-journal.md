@@ -34,3 +34,11 @@ Today's talk was also great. My favorite was Professor Thomas and [Professor Pie
 
 I also got to talk to more people and learned about the benefits of having twins. [Professor Hinczewski](https://hinczlab.org/) said (I forgot if it is an exact quote) "don't wait on life." Don't get too absorbed in academics and live in the present. Looking at the mountains and rivers certainly exaggerates (or simply reminds) the fundamental time scale differences, which gives birth to an appreciation for each moment that I have. Ughh... it's getting too corny.
 
+### Day 3 - the squirrel day
+
+I saw a lot of cute rodent friends today. They are Columbian ground squirrels. They look like squirrels (obviously) but have a not-so-fluffy tail, run on the ground, and lives near their burrows. According to [Wikipedia](https://en.wikipedia.org/wiki/Columbian_ground_squirrel), they are only awake for at most 90 days and asleep otherwise. In some sense, they are really living the life. There are three of these furry fellows in the picture below, can you find them? 
+
+![](../images/ground_squirrel.png)
+
+Today's talks were I think the best so far, particularly: [Armita's](https://phys.washington.edu/people/armita-nourmohammad) talk on distributive memory with respect to the dynamics of the sensory input, [Alex's](https://scholar.google.com/citations?user=Pax6s-gAAAAJ&hl=en) talk on trade-offs of bacterial extinction time in relation to quorum sensing, and [Ryan's](https://physics.wustl.edu/people/ryan-mcgee) talk on an information-theoretic and learning-theoretic view on evolution. 
+
