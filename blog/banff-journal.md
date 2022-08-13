@@ -57,5 +57,5 @@ The last day was my favorite day in terms of the talks, even though we only got 
 
 This workshop was incredibly fun. I got a whole lot out of it and I think this is a field worth pursuing. I also have to learn a lot more, particularly statistical physics. I also talked to many brilliant people, and it is my goal to be as sharp as them one day. Lastly, Banff is an amazing place. I'll definitely come back and go to the places I didn't get to visit this time. Thanks again to Professor Thomas and Professor Eckford for organizing and inviting me, a lowly undergrad, to such an event.
 
-![](../images/banff-last-day)
+![](../images/banff-last-day.png)
 
