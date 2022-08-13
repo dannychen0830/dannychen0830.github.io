@@ -47,7 +47,7 @@ Today's talks were I think the best so far, particularly: [Armita's](https://phy
 
 It's odd to have a rest day for a workshop, but Banff is such a pretty place. Professor Thomas, along with other hiking enthusiasts, went on an ambitious hike for the whole day. Down at the Banff center, I attended the _subjective information_ mini-workshop where we discussed how to account semantic variability (prevalent in cells) into Shannon's theory of information. At the end, it turned into a very nice pep talk by [Chris Adami](https://adami.natsci.msu.edu/) about the academia world. 
 
-In the afternoon, I went on a bike ride along the bow river through a golf course. This ride was the highlight of the conference, and it elevated the status of Banff from a great place to one of my favorite places on Earth. Everyone should come to Banff at least once. Pictures (especially mine) doesn't do justice, but below is a picture of (I think) an elk I saw. 
+In the afternoon, I went on a bike ride along the bow river through a golf course. This ride was the highlight of the conference, and it elevated the status of Banff from a great place to one of my favorite places on Earth. Everyone should come to Banff at least once. Pictures (especially mine) don't do justice. The picture below is one of the better ones I took and (I think) it is an elk I saw. 
 
 ![](../images/banff_elk.png)
 
