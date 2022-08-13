@@ -42,3 +42,20 @@ I saw a lot of cute rodent friends today. They are Columbian ground squirrels. T
 
 Today's talks were I think the best so far, particularly: [Armita's](https://phys.washington.edu/people/armita-nourmohammad) talk on distributive memory with respect to the dynamics of the sensory input, [Alex's](https://scholar.google.com/citations?user=Pax6s-gAAAAJ&hl=en) talk on trade-offs of bacterial extinction time in relation to quorum sensing, and [Ryan's](https://physics.wustl.edu/people/ryan-mcgee) talk on an information-theoretic and learning-theoretic view on evolution. 
 
+
+### Day 4 - the rest day
+
+It's odd to have a rest day for a workshop, but Banff is such a pretty place. Professor Thomas, along with other hiking enthusiasts, went on an ambitious hike for the whole day. Down at the Banff center, I attended the _subjective information_ mini-workshop where we discussed how to account semantic variability (prevalent in cells) into Shannon's theory of information. At the end, it turned into a very nice pep talk by [Chris Adami](https://adami.natsci.msu.edu/) about the academia world. 
+
+In the afternoon, I went on a bike ride along the bow river through a golf course. This ride was the highlight of the conference, and it elevated the status of Banff from a great place to one of my favorite places on Earth. Everyone should come to Banff at least once. Pictures (especially mine) doesn't do justice, but below is a picture of (I think) an elk I saw. 
+
+![](../images/banff_elk.png)
+
+### Day 5 - the last day
+
+The last day was my favorite day in terms of the talks, even though we only got four. I really liked [Lea's](http://mypage.concordia.ca/mathstat/lpopovic/) talk on large deviation since it is something that I've been wanting to learn more about. Also, [Javier's](https://scholar.google.com/citations?hl=en&user=GwU_GqgAAAAJ&view_op=list_works&sortby=pubdate) talk on stochastic resetting to random locations was also very intriguing. These are the two papers that I will look into first when I get back to research mode. 
+
+This workshop was incredibly fun. I got a whole lot out of it and I think this is a field worth pursuing. I also have to learn a lot more, particularly statistical physics. I also talked to many brilliant people, and it is my goal to be as sharp as them one day. Lastly, Banff is an amazing place. I'll definitely come back and go to the places I didn't get to visit this time. Thanks again to Professor Thomas and Professor Eckford for organizing and inviting me, a lowly undergrad, to such an event.
+
+![](../images/banff-last-day)
+
