@@ -6,6 +6,8 @@ Here are my blog posts in chronological order (I doubt this structure would chan
 
 
 ### 2022 
+[An interview question that stuck with me.](./interview-question.md)
+
 [My first workshop... and it's overseas!](./banff-journal.md)
 
 
