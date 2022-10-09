@@ -47,7 +47,7 @@ $$
 \begin{align}
 \mathbb P(\vert \mathcal E_1 - d \vert < \epsilon) &= \mathbb P(\mathcal E_1 > d - \epsilon) \\
 &= 1 - \mathbb (X \leq d - \epsilon)^n \\
-&= 1 - \left(1 - \frac{\epsilon}{d})^n
+&= 1 - \left(1 - \frac{\epsilon}{d} \right)^n 
 \end{align}
 $$
 
