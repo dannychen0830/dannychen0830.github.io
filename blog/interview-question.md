@@ -45,7 +45,7 @@ So:
 
 $$
 \begin{align}
-\mathbb P(\vert \mathcal E_1 - d \vert < \eosilon) &= \mathbb P(\mathcal E_1 > d - \epsilon) \\
+\mathbb P(\vert \mathcal E_1 - d \vert < \epsilon) &= \mathbb P(\mathcal E_1 > d - \epsilon) \\
 &= 1 - \mathbb (X \leq d - \epsilon)^n \\
 &= 1 - \left(1 - \frac{\epsilon}{d})^n
 \end{align}
