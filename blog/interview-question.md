@@ -70,7 +70,7 @@ which is a significantly worse bound considering both the $$\mathcal O(1/n)$$ ra
 
 I'm just reading about large deviation on Weinan E, Tiejun Li, Eric Vanden-Eijnden's _Applied Stochastic Analysis_ (I just started, but really enjoying so far), so this is an exciting experiment. For some i.i.d sum of random variable $$S_n = \sum_i X_i/n$$ and any (bounded) set $$\Gamma$$, the large deviation principle (Cramer's theorem) says that 
 
-$$ \mathbb P(\mathcal X \in \Gamma) \asymp \exp \left( -n \inf_{x \in \Gamma} I(x) \right) $$ 
+$$ \mathbb P(X \in \Gamma) \asymp \exp \left( -n \inf_{x \in \Gamma} I(x) \right) $$ 
 
 where $\asymp$ represents logarithmic equivalence $$I(x)$$ is the Legendre transform of the cumulant.
 
@@ -85,7 +85,7 @@ Let's not panick just yet. Let's pin-point $$\Gamma$$ first. Cramer's theorem ac
 
 Now, to optimize over $$\lambda$$, we can pick any $$\lambda$$ to obtain a sufficient bound. Even that is difficult, however, because the cumulant is just in an ugly form. But for the sake of keep going, let's write down what we have so far. 
 
-$$ \mathbb P(\vert \mathcal E - d \vert > \epsilon) = \exp(-n I(\epsilon)) = \left( -I(\epsilon) \right)^n$$ 
+$$ \mathbb P(\vert \mathcal E - d \vert > \epsilon) = 2 \exp(-n I(\epsilon)) = 2 \left( -I(\epsilon) \right)^n$$ 
 
 ### Final Verdict
 
