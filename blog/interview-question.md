@@ -7,7 +7,7 @@
 
 ## Interesting(-ish) Interview Question
 
-So, while I was looking for jobs this summer, I encountered this question: If I give you samples from a uniform distribution distributed along the interval $$(0, d)$$, how do you find $d$? 
+So, while I was looking for jobs this summer, I encountered this question: If I give you samples from a uniform distribution distributed along the interval $$(0, d)$$, how do you find $$d$$? 
 
 My nervous adrenaline-packed brain started its scambled search through my statistics database. I immediately replied: "I remember that the maximum likelihood estimate for $$d$$ is the max out of all samples." I was quite confident in this answer as I can still recall some details in the derivation. However, the interviewer rejected my answer (politely, of course) and asked me to think about the expectation of the uniform distribution. The second answer became obvious given this hint: the expectation of a uniform distribution with support $$(0,d)$$ is $$d/2$$ and the typical averaging would do the job (upon rescaling). 
 
@@ -29,7 +29,7 @@ $$
 \end{align}
 $$
 
-where $$1_A(x)$$ is the indicator function ($$1$$ if $$x \in A$$ and $$0$$ otherwise). The second equality is by squinting: we get $$1$$ if $$0 \leq x_i \leq d$$, or equivalently in the $d$-parameter-space, $$x_i \leq d < \infty$$. The third equality is by noticing that only the biggest $$x_i$$ win. We want the maximum likelihood estimate, which I'll denote with a rather weird (but less confusing notation because I don't want $$d$$'s floating all over) $$\mathcal E_1$$ for being the first estimate I write down. 
+where $$1_A(x)$$ is the indicator function ($$1$$ if $$x \in A$$ and $$0$$ otherwise). The second equality is by squinting: we get $$1$$ if $$0 \leq x_i \leq d$$, or equivalently in the $$d$$-parameter-space, $$x_i \leq d < \infty$$. The third equality is by noticing that only the biggest $$x_i$$ win. We want the maximum likelihood estimate, which I'll denote with a rather weird (but less confusing notation because I don't want $$d$$'s floating all over) $$\mathcal E_1$$ for being the first estimate I write down. 
 
 $$ \mathcal E_1 = \max_{d \in \mathbb R} \mathcal L(d)$$
 
@@ -81,11 +81,11 @@ That's a lot of optimization! Let's shift and rescale $$X$$ so that we're estima
 $$ I(x) = \sup_\lambda \left \{\lambda x - \log \frac{e^{\lambda d} - e^{-\lambda d}}{2\lambda d} \right \} $$ 
 
 
-Let's not panick just yet. Let's pin-point $$\Gamma$$ first. Cramer's theorem actually splits into tight upper and lower bounds, and the upper bound requires $$\Gamma$$ to be a closed set. In our case, we can confidently pick $$\Gamma = [-d, \epsilon] \cup [\epsilon, d]$$ because we have a bounded distribution. Generally, we can do optimization over one tail such as $$[\epsilon, \infty)$$. Why? My justification is that when we take infimum over $$\Gamma$$, by convexity and non-negativity of the rate function, the $$x$$ that we pick will always be at the lower boundary, which we can then take the limit of closed sets shifting the upper bound up. This is known by fellow engineers as the _Chernoff bound_, which is obtained by applying the Markov inequality on exponentiated random variable. From this persepctive, we get to know that 1) the large deviation result is actually not an asymptotic reesult, which makes the comparison with MLE apples-to-apples, we can obtain an upper bound on the deviation probability by looking at one side of the tail and multiply by two later rather than having to with gut feeling on taking infimum over $$\Gamma$$. 
+Let's not panick just yet. Let's pin-point $$\Gamma$$ first. Cramer's theorem actually splits into tight upper and lower bounds, and the upper bound requires $$\Gamma$$ to be a closed set. In our case, we can confidently pick $$\Gamma = [-d, -\epsilon] \cup [\epsilon, d]$$ because we have a bounded distribution. Generally, we can do optimization over one tail such as $$[\epsilon, \infty)$$. Why? My justification is that when we take infimum over $$\Gamma$$, by convexity and non-negativity of the rate function, the $$x$$ that we pick will always be at the lower boundary, which we can then take the limit of closed sets shifting the upper bound up. This is known by fellow engineers as the _Chernoff bound_, which is obtained by applying the Markov inequality on exponentiated random variable. From this persepctive, we get to know that 1) the large deviation result is actually not an asymptotic reesult, which makes the comparison with MLE apples-to-apples, we can obtain an upper bound on the deviation probability by looking at one side of the tail and multiply by two later rather than having to with gut feeling on taking infimum over $$\Gamma$$. 
 
 Now, to optimize over $$\lambda$$, we can pick any $$\lambda$$ to obtain a sufficient bound. Even that is difficult, however, because the cumulant is just in an ugly form. But for the sake of keep going, let's write down what we have so far. 
 
-$$ \mathbb P(\vert \mathcal E - d \vert > \epsilon) = 2 \exp(-n I(\epsilon)) = 2 \left( -I(\epsilon) \right)^n$$ 
+$$ \mathbb P(\vert \mathcal E - d \vert > \epsilon) \leq 2 \exp(-n I(\epsilon)) = 2 \left( -I(\epsilon) \right)^n$$ 
 
 ### Final Verdict
 
