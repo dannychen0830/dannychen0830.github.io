@@ -72,7 +72,7 @@ I'm just reading about large deviation on Weinan E, Tiejun Li, Eric Vanden-Eijnd
 
 $$ \mathbb P(X \in \Gamma) \asymp \exp \left( -n \inf_{x \in \Gamma} I(x) \right) $$ 
 
-where $\asymp$ represents logarithmic equivalence $$I(x)$$ is the Legendre transform of the cumulant.
+where $$\asymp$$ represents logarithmic equivalence $$I(x)$$ is the Legendre transform of the cumulant.
 
 $$ I(x) = \sup_\lambda \{ \lambda x - \Lambda (\lambda) \} = \sup_\lambda \{ \lambda x - \log \mathbb E e^{\lambda X} \} $$
 
@@ -93,5 +93,5 @@ So, since we get exponential concentrations on both estimators, let's look at ho
 
 ![](../images/interview-fig.png)
 
-And (drum roll, please) ... __we have a winner__! Since the difference stayed below, LDP wins! However, it seems like in the appropriate limit, the two estimators are the same. Nonetheless, LDP did not fail me and I did end up with a slightly better bound. I did give the less-right answer in the interview, but the difference is small, so I forgive myself for this. 
+And (drum roll, please) ... __we have a winner__! Since the difference stayed below zero, LDP wins! However, it seems like in the appropriate limit, the two estimators are the same. Nonetheless, LDP did not fail me and I did end up with a slightly better bound. I did give the less-right answer in the interview, but the difference is small, so I forgive myself for this. 
 
