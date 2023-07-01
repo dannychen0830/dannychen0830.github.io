@@ -10,10 +10,10 @@ I'm Danny:
 - applied mathematician at night
 - (aspiring) physicist at heart
 
-I recieved my Bachelor's degrees in Mathematics and Computer Science from Case Western Reserve University. My research interest lies generally in applied stochastic analysis. More details are provided in my [research page](./research.html) or can be found on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=W72N33YAAAAJ).
+I recieved my Bachelor's degrees in Mathematics and Computer Science from Case Western Reserve University. My research interest lies generally in applied stochastic analysis. More details are provided in my [research page](./research.html) or can be found on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=si6Phg8AAAAJ&view_op=list_works&authuser=2&sortby=pubdate).
 
 
-> My paper (jointly with the two best people in Chicago: Zain Saleem and Michael Perlin) on performing shadow tomography on fragmented circuits is available on [ArXiv](https://arxiv.org/abs/2212.00761)! 
+> I will be heading south to Providence for the next years for my PhD in applied math! I'll officially not be a computer scientist in the day, and (train to) become a full-time applied mathematician!
 
-If you happen to stumble on upon this website and wants to reach out to me about research, notes, hobbies, grad school apps, I will be more than happy to connect with you. I'm easily reachable at **txc461@case.edu**. 
+If you happen to stumble on upon this website and wants to reach out to me about research, notes, hobbies, grad school apps, I will be more than happy to connect with you. I'm easily reachable at **daniel_t_chen@brown.edu**. 
 
