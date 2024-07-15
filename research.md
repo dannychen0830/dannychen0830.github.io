@@ -2,18 +2,25 @@
 
 ## Research
 
-> "We have not succeeded in answering all our problems. The answers we have found only serve to raise a whole set of new questions. In some ways we feel we are as confused as ever, but we believe we are confused on a higher level and about more important things."
+> "It has always been a temptation for mathematicians to present the crystallized product of their thoughts as a deductive general theory and to relegate the individual mathematical phenomenon into the role of an example. The reader who submits to the dogmatic form will be easily indoctrinated. Enlightenment, however, must come from an understanding of motives; live mathematical development springs from specific natural problems which can be easily understood, but whose solutions are difficult and demand new methods of more general significance." 
 > 
-> -- from Oksendal's Stochastic Differential Equations book
+> -- Richard Courant
 
-My interest broadly lies in stochastic dynamics observed in natural and engineering systems alike. I also would love to explore its intersection with control, large deviation, and information theory.
+I'm interested in probability theory and networks, bridging together structure, dynamics, and information. More broadly speaking, I would like to solve interesting and difficult problems in engineering and science while providing principled mathematical justifications. 
 
-Here are a few examples of what I am working on/would like to know more about:
-- information processing in cells
-- control and games of networked agents
-- training dynamics of artificial neural networks
+Current projects include: 
+- long-time behavior and sensitivity of queueing networks
+- communication properties of biological signal transduction systems
+- universal phenomena of high-dimensional projections
 
-I've also worked on several quantum computing projects in my undergraduate years. Notably, there are a few works on quantum circuit cutting and one work on quantum networks.
+Below is a list of my published work, organized in terms on topics (topics and coauthors listed in alphabetical order). For a chronological ordered (and automatically updated) list, see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=si6Phg8AAAAJ&view_op=list_works&authuser=2&sortby=pubdate).
 
-For some concrete examples on the things I have done, in addition to original results in [Google Scholar](https://scholar.google.com/citations?hl=en&user=si6Phg8AAAAJ&view_op=list_works&authuser=2&sortby=pubdate), the [notes page](./notes.html) will show you a few things I know and the [reading list page](./reading_list.html) will tell you where I'm heading next. 
 
+
+### Signal Processing
+
+### Quantum Networks
+
+### Quantum Algorithms 
+- **Quantum Circuit Cutting for Classical Shadows** (with Michael A. Perlin and Zain H. Saleem). 
+_ACM Trans. on. Quantum Computing_. [Journal](https://dl.acm.org/doi/10.1145/3665335). [Arxiv](https://arxiv.org/abs/2212.00761)
