@@ -9,7 +9,7 @@
 I'm interested in probability theory and networks, bridging together structure, dynamics, and information. More broadly speaking, I would like to solve interesting and difficult problems in engineering and science while providing principled mathematical justifications. 
 
 Current projects include: 
-- long-time behavior and sensitivity of queueing networks
+- limit theory for interacting particles on sparse graphs
 - communication properties of biological signal transduction systems
 - universal phenomena of high-dimensional projections
 
