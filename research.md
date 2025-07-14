@@ -2,20 +2,23 @@
 
 ## Research
 
-> "It has always been a temptation for mathematicians to present the crystallized product of their thoughts as a deductive general theory and to relegate the individual mathematical phenomenon into the role of an example. The reader who submits to the dogmatic form will be easily indoctrinated. Enlightenment, however, must come from an understanding of motives; live mathematical development springs from specific natural problems which can be easily understood, but whose solutions are difficult and demand new methods of more general significance." 
+> "It has always been a temptation for mathematicians to present the crystallized product of their thoughts as a deductive general theory and to relegate the individual mathematical phenomenon into the role of an example. 
+The reader who submits to the dogmatic form will be easily indoctrinated. 
+Enlightenment, however, must come from an understanding of motives; live mathematical development springs from specific natural problems which can be easily understood, but whose solutions are difficult and demand new methods of more general significance." 
 > 
 > -- Richard Courant
 
-I'm interested in probability theory and networks, bridging together structure, dynamics, and information. More broadly speaking, I would like to solve interesting and difficult problems in engineering and science while providing principled mathematical justifications. 
+I am genericallly interested in probability theory.
+My PhD work focuses on developing limit theories for stochastic dynamics on networks, the goal being to understand how microscopic structues induce complex, global phenomena.
+For me, the value of mathematics lies in providing a framework for precisely describing the world we see and I am excited to establish mathematical foundations for machine learning, biology, economics, and quantum sciences.
 
-Current projects include: 
-- limit theory for interacting particles on sparse graphs
-- communication properties of biological signal transduction systems
-- universal phenomena of high-dimensional projections
+Below is a selected list of my published work, organized in terms on topics (topics and coauthors listed in alphabetical order). 
+For a complete, chronological ordered (and automatically updated) list, see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=si6Phg8AAAAJ&view_op=list_works&authuser=2&sortby=pubdate).
 
-Below is a selected list of my published work, organized in terms on topics (topics and coauthors listed in alphabetical order). For a complete, chronological ordered (and automatically updated) list, see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=si6Phg8AAAAJ&view_op=list_works&authuser=2&sortby=pubdate).
+### Mathematical Biology
 
-
+- **Capacity of a class of fully observed multistate Poisson-type signal transduction channels** (with Andrew W. Eckford, and Peter J. Thomas). 
+_IEEE International Symposium on Information Theory (2025)_.
 
 ### Signal Processing
 

@@ -1,4 +1,18 @@
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: dirt
 
-title: Daniel T.S. Chen
+title: Daniel T. Chen
 logo: /images/orig(3.jpg
+
+author:
+  name: "Daniel T. Chen"
+  avatar: "/images/orig(3.jpg"
+  bio: "Applied math PhD student studying applied probability"
+  location: "Providence, Rhode Island"
+  links:
+    - label: "Google Scholar"
+      icon: "fa-brands fa-google-scholar"
+      url: "https://scholar.google.com/citations?hl=en&user=si6Phg8AAAAJ&view_op=list_works&authuser=2&sortby=pubdate"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/daniel-ts-chen/"
