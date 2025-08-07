@@ -2,11 +2,9 @@
 
 ## Research
 
-> "It has always been a temptation for mathematicians to present the crystallized product of their thoughts as a deductive general theory and to relegate the individual mathematical phenomenon into the role of an example. 
-The reader who submits to the dogmatic form will be easily indoctrinated. 
-Enlightenment, however, must come from an understanding of motives; live mathematical development springs from specific natural problems which can be easily understood, but whose solutions are difficult and demand new methods of more general significance." 
+> "People who know what they're doing don't make interesting work."
 > 
-> -- Richard Courant
+> --Jacob Collier
 
 I am genericallly interested in probability theory.
 My PhD work focuses on developing limit theories for stochastic dynamics on networks, the goal being to understand how microscopic structues induce complex, global phenomena.

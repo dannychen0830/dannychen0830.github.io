@@ -6,7 +6,7 @@
 
 I'm Danny:
 
-I am a PhD student in the Division of Applied Mathematics at Brown university studying under Professor [Kavita Ramanan](https://www.brown.edu/academics/applied-mathematics/faculty/kavita-ramanan/home). 
+I am a PhD student in the Division of Applied Mathematics at Brown university studying under Professor [Kavita Ramanan](https://vivo.brown.edu/display/kramanan). 
 My research interest lies generally in applied probability. 
 More details are provided in my [research page](./research.html).
 
