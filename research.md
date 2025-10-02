@@ -14,7 +14,7 @@ Below is a selected list of my published work, organized in terms on topics (coa
 For a complete, chronological ordered (and automatically updated) list, see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=si6Phg8AAAAJ&view_op=list_works&authuser=2&sortby=pubdate).
 
 ### Machine Learning and signal processing
-- **A variational framework for residual-based adaptivity in neural PDE solvers and operator learning** (with Juan D. Toscano, Vivek Oommen, George Em Karniadakis).
+- **A variational framework for residual-based adaptivity in neural PDE solvers and operator learning** (with Juan D. Toscano, Vivek Oommen, Jerome Darbon, George Em Karniadakis).
 _Submitted_. [ArXiv](https://arxiv.org/abs/2509.14198).
 
 - **Explicitly solvable continuous-time inference for partially-observed Markov processes** (with Andrew W. Eckford, Alexander G. Strang, and Peter J. Thomas). 
