@@ -1,3 +1,18 @@
+---
+layout: none
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; url=https://your-new-site.google.com">
+    <title>Redirecting...</title>
+</head>
+<body>
+    <p>Redirecting to new site... <a href="https://sites.google.com/view/dtchen/home">Click here if not redirected automatically</a></p>
+</body>
+</html>
+
 [home](./index.html)  |  [research](./research.html)  |  [notes](./notes.html)  | 
 
 > "Luck is when preparation meets opportunity" 
