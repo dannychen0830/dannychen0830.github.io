@@ -6,10 +6,10 @@
 <img src="/images/scribble.jpeg" alt="scribble" style="float:right; width:240px; max-width:45%; margin:0 0 15px 20px; border-radius:6px;" />
 
 I am broadly interested in applied probability, but I specialize in stochastic analysis and interacting particle systems, particularly limit theory and adjacent graph-theoretic concerns. I've also applied probabilistic methods to machine learning, signal processing, mathematical biology, quantum networks, and quantum algorithms.
-</div>
 
 Below is a selected list of my published work, organized in terms on topics (coauthors listed in alphabetical order unless specified). 
 For a complete, chronological ordered (and automatically updated) list, see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=si6Phg8AAAAJ&view_op=list_works&authuser=2&sortby=pubdate).
+</div>
 
 ### Machine Learning and signal processing
 - **A variational framework for residual-based adaptivity in neural PDE solvers and operator learning** (with Juan D. Toscano, Vivek Oommen, Jerome Darbon, George Em Karniadakis).
@@ -21,7 +21,7 @@ _IEEE Transactions on Signal Processing (2022)_. [Journal](https://ieeexplore.ie
 ### Mathematical Biology
 
 - **Capacity of a class of fully observed multistate Poisson-type signal transduction channels** (with Andrew W. Eckford, and Peter J. Thomas). 
-_IEEE International Symposium on Information Theory (2025)_.
+_IEEE International Symposium on Information Theory (2025)_. [Conference](https://ieeexplore.ieee.org/abstract/document/11195379?casa_token=kuqLcNGwwXoAAAAA:-ykEqpPcmZsqCel6zgbgglHjWOSpMLMbTrh-NOCp3ZFe3TcDInBQVCyOoYGRlA3zIQhORwlEymE).
 
 ### Quantum Algorithms and Networks
 
