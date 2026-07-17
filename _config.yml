@@ -1,7 +1,6 @@
 theme: jekyll-theme-minimal
 
 title: Daniel T. Chen
-logo: /images/headshot-unimelb.jpeg
 
 defaults:
   - scope:

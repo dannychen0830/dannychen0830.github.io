@@ -3,7 +3,7 @@
 ## Research
 
 <div style="overflow:auto;" markdown="1">
-<img src="/images/scribble.jpeg" alt="scribble" style="float:right; width:240px; max-width:45%; margin:0 0 15px 20px; border-radius:6px;" />
+<img src="/images/scribble.jpeg" alt="scribble" style="float:left; width:240px; max-width:45%; margin:0 20px 15px 0; border-radius:6px;" />
 
 I am broadly interested in applied probability, but I specialize in stochastic analysis and interacting particle systems, particularly limit theory and adjacent graph-theoretic concerns. I've also applied probabilistic methods to machine learning, signal processing, mathematical biology, quantum networks, and quantum algorithms.
 
