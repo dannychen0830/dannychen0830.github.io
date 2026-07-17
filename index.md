@@ -1,9 +1,12 @@
 [home](./index.html)  |  [research](./research.html)  |  [notes](./notes.html)  |  [cv](./cv.html)
 
 <div style="overflow:auto;" markdown="1">
-<img src="/images/headshot-unimelb.jpeg" alt="Danny" style="float:right; width:220px; max-width:45%; margin:0 0 15px 20px; border-radius:8px;" />
+<div style="float:right; width:220px; max-width:45%; margin:0 0 15px 20px;" markdown="1">
+<img src="/images/headshot-unimelb.jpeg" alt="Danny" style="width:100%; display:block; border-radius:8px;" />
+<span style="font-size:11px; color:#999;">Photo by <a href="https://www.yifanguo.org/">Yifan Guo</a></span>
 
 [Google Scholar](https://scholar.google.com/citations?user=si6Phg8AAAAJ&hl=en) &middot; [LinkedIn](https://www.linkedin.com/in/daniel-ts-chen/) &middot; [GitHub](https://github.com/dannychen0830)
+</div>
 
 Hi, I'm Danny~
 

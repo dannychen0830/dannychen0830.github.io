@@ -3,7 +3,10 @@
 ## Notes
 
 <div style="overflow:auto;" markdown="1">
-<img src="/images/lecture.jpeg" alt="lecture" style="float:right; width:240px; max-width:45%; margin:0 0 15px 20px; border-radius:6px;" />
+<div style="float:right; width:240px; max-width:45%; margin:0 0 15px 20px;" markdown="1">
+<img src="/images/lecture.jpeg" alt="lecture" style="width:100%; display:block; border-radius:6px;" />
+<span style="font-size:11px; color:#999;">Handwriting by <a href="https://kevin-hu-math.github.io">Kevin Hu</a></span>
+</div>
 
 Here, I compile some (short) notes from previous presentations. There are no new results here (and properly acknowledged so), but perhaps the organization contains sprinkles of originality.
 
