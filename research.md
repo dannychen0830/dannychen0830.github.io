@@ -1,14 +1,10 @@
-[home](./index.html)  |  [research](./research.html)  |  [notes](./notes.html) 
+[home](./index.html)  |  [research](./research.html)  |  [notes](./notes.html)  |  [cv](./cv.html)
 
 ## Research
 
-> "People who know what they're doing don't make interesting work."
-> 
-> --Jacob Collier
+<img src="/images/scribble.jpeg" alt="scribble" style="width:100%; border-radius:6px; margin-bottom:20px;" />
 
-I am genericallly interested in probability theory.
-My PhD work focuses on developing limit theories for stochastic dynamics on networks, the goal being to understand how microscopic structues induce complex, global phenomena.
-For me, the value of mathematics lies in providing a framework for precisely describing the world we see and I am excited to establish mathematical foundations for machine learning, biology, economics, and quantum sciences.
+I am broadly interested in applied probability, but I specialize in stochastic analysis and interacting particle systems, particularly limit theory and adjacent graph-theoretic concerns. I've also applied probabilistic methods to machine learning, signal processing, mathematical biology, quantum networks, and quantum algorithms.
 
 Below is a selected list of my published work, organized in terms on topics (coauthors listed in alphabetical order unless specified). 
 For a complete, chronological ordered (and automatically updated) list, see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=si6Phg8AAAAJ&view_op=list_works&authuser=2&sortby=pubdate).

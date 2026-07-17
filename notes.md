@@ -1,15 +1,12 @@
-[home](./index.html)  |  [research](./research.html)  |  [notes](./notes.html)  
+[home](./index.html)  |  [research](./research.html)  |  [notes](./notes.html)  |  [cv](./cv.html)
 
 ## Notes
 
-> "Magic is really very simple, all you've got to do is want something and then let yourself have it."
-> 
-> -- Aggie Cromwell from Halloweentown
+<img src="/images/lecture.jpeg" alt="lecture" style="width:100%; border-radius:6px; margin-bottom:20px;" />
 
-Below are some notes that I typesetted for less formal presentations, e.g., in class or research group 
-meetings.
+Here, I compile some (short) notes from previous presentations. There are no new results here (and properly acknowledged so), but perhaps the organization contains sprinkles of originality.
 
-_Caution_: there are certainly mistakes (typographical or otherwise). Feel free to contact me if you'd like to see them corrected :) 
+While I tried to be careful when crafting the notes, they are inevitably plagued by typos, flipped inequalities, and similar routine but (potentially) crucial mistakes. Please consume with care, and I wish the big picture and intuition are not smudged by these microscopic imperfections.
 
 
 ### Graduate 
