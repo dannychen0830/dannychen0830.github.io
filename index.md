@@ -10,11 +10,12 @@
 
 Hi, I'm Danny~
 
-I am a PhD student in the Division of Applied Mathematics at Brown University studying under Professor [Kavita Ramanan](https://vivo.brown.edu/display/kramanan). My research interest lies generally in applied probability. More details are provided on my [research page](./research.html).
+I am a PhD candidate in the Division of Applied Mathematics at Brown University studying under Professor [Kavita Ramanan](https://vivo.brown.edu/display/kramanan). My research interest lies generally in applied probability. More details are provided on my [research page](./research.html).
 
 I am currently the co-president of the Brown Quantum Initiative, a student-run organization for all-things-quantum at Brown. We organize research seminars, hackathons, workshops, and more. Contact me if you'd like to know more or would like to give a talk here!
 
-Before Brown, I was a software engineer at Northrop Grumman 2Is Solutions. I recieved my Bachelor's degrees in Mathematics and Computer Science from Case Western Reserve University. 
+Before Brown, I was a software engineer at Northrop Grumman 2Is Solutions. 
+I received my Bachelor's degrees in Mathematics and Computer Science from Case Western Reserve University. 
 
 I'm easily reached at **daniel_t_chen@brown.edu**. 
 </div>
